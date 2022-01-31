@@ -1,0 +1,25 @@
+.col-md-6 {
+	width: 200px;
+	height: 200px;
+	border-style: solid;
+	
+
+}
+
+.col-sm-4 {
+	width: 200px;
+	height: 200px;
+	border-style: solid;
+}
+
+.col-xs-3 {
+	width: 250px;
+	height: 250px;
+	border-style: solid;
+}
+
+.col-md-2 {
+	width: 200px;
+	height: 200px;
+	border-style: solid;
+}
